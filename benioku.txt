@@ -1,0 +1,3 @@
+"Sayilar.txt" dosyası için herhangi bir konum belirtilmediği için,
+    doc klasörüne koydum test.cpp üzerinde defineladığım filePath ile değiştirebilirsiniz.
+
